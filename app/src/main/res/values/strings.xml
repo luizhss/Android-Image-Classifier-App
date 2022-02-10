@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mobile App Predictor</string>
+<<<<<<< HEAD
+    <string name="time_ms">%1$d ms</string>
+    <string name="fpercent">%1$.2f%%</string>
+=======
+>>>>>>> e9d7ca3dd6b69d9dde53cfe340fa70e4d6679598
+</resources>

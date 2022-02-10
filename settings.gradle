@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "predictor_app"
